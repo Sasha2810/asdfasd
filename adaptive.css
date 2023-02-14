@@ -1,0 +1,18 @@
+    @media (max-width: 800px) {
+        .menu {
+            display: none;
+        }
+        .burger span {
+            display: block;
+            width: 70px;
+            height: 5px;
+            border-radius: 50px;
+            margin: 4px 0;
+            background-color: rgb(52, 54, 57);
+        }
+        header {
+            background-color: #ddd8d8;
+            height: 50px;
+            width: 100%;
+        }
+    }
